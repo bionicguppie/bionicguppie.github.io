@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Blogging Like a Hacker
+title: Cloud Security Exploration
 ---
 
 ## Cloud Security Exploration
