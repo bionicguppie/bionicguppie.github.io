@@ -1,10 +1,6 @@
 ---
 published: true
 ---
----
-layout: post
-title: Cloud Security Exploration
----
 
 ## Cloud Security Exploration
 
