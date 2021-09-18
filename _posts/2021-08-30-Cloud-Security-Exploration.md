@@ -1,6 +1,11 @@
 ---
 published: true
 ---
+---
+layout: post
+title: Cloud Security Exploration
+---
+
 ## Cloud Security Exploration
 
 This blog is a way for me to collect all the questions and information I have about Cloud Security. I'll start with the questions:
