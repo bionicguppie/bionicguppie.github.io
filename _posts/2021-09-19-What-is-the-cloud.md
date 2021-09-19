@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: posts
 title: What is the Cloud?
 ---
