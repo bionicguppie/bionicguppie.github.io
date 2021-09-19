@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 style: posts
 layout: posts
 title: What is Cloud Computing?
