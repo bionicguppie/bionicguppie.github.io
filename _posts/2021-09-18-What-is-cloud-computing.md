@@ -4,6 +4,7 @@ style: posts
 layout: posts
 title: What is Cloud Computing?
 ---
+
 ## What Do We Mean When We Talk About Cloud Computing?
 
 Cloud computing currently means "the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user." What this means is that a business, the cloud provider, offers you use of their compute resources for a fee. The cloud provider manages the underlying physical resources, such as power, cooling, physical security, and physical maintenance, at a minimum. 
