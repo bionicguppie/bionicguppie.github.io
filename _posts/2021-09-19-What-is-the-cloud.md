@@ -1,6 +1,6 @@
 ---
 published: true
-layout: post
+layout: posts
 title: What is the Cloud?
 ---
 ## What is the cloud?
