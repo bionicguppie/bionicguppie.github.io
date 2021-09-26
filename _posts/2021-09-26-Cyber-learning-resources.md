@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Cyber Learning Resources
 layout: post
 ---
