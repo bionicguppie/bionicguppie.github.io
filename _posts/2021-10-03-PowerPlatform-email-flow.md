@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Email Flow in Power Automate
 ---
@@ -18,4 +18,3 @@ The flow starts with an excel table. It uses the step called "List rows present 
 The next step is "Apply to each" for each of the rows you've listed. Within that step, you'll have the step "Send an email (V2)" The Apply to each step takes the variables from each row and applies them to whatever step you put inside the Apply to each step. So in this instance, I'm taking variables such as their email address and their first name and applying those to each email that is sent.
 
 ![email variables.png]({{site.baseurl}}/_posts/email variables.png)
-
