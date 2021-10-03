@@ -11,7 +11,7 @@ I made a very simple flow in Microsoft Power Platform to send out an email to ea
 
 For a Flow, something has to trigger it. Currently, I use a "button", though in practice it just means that the Flow will run one time when I test it. 
 
-The flow starts with an excel table. It uses the step called "List rows present in a table. The step needs to know where the file is located and the file needs to be formatted correctly. For this step to work, there needs to be a "key" column in the file. The key column is just numbers, 1 through however many items you need to send. Each email row needs it's own number.
+The flow starts with an excel table. It uses the step called "List rows present in a table. The step needs to know where the file is located and the file needs to be formatted correctly. For this step to work, there needs to be a "key" column in the file. The key column is just numbers, 1 through however many items you need to send. Each email row needs it's own number. In this file, I used "ID" for the key column.
 
 ![excel table formatting.png]({{site.baseurl}}/images/excel table formatting.png)
 
