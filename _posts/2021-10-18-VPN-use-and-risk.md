@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: VPN Security Risks
 layout: post
 ---
@@ -23,6 +23,4 @@ Can't set policies for end users – all or nothing connection.
 
 [https://endpoint.tanium.com/vpn-vs-cloud-the-case-for-sunsetting-the-vpn/ ](https://endpoint.tanium.com/vpn-vs-cloud-the-case-for-sunsetting-the-vpn/ )
 
-This article makes a case that VPNs aren't secure enough and another solution is needed, talks about limitations of VPN's, doesn't really name a replacement, and the cloud solutions seem to be virtual VPNs 
-
-  
+This article makes a case that VPNs aren't secure enough and another solution is needed, talks about limitations of VPN's, doesn't really name a replacement, and the cloud solutions seem to be virtual VPNs
