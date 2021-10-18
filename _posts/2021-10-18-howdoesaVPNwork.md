@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: How does a VPN work?
 layout: post
 ---
@@ -19,5 +19,4 @@ Types:
 
 Remote access - one device accesses a network, either physical or cloud based. What's commonly used by remote workers to access a network 
 
-Site-to-Site: - connects two or more geographically separated, or cloud based, networks over the internet 
-
+Site-to-Site: - connects two or more geographically separated, or cloud based, networks over the internet
