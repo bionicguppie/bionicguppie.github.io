@@ -9,7 +9,7 @@ A VPN does one basic thing. It extends an internal, private network to connect t
 
 For a VPN to work, you need to have a program set up on the private network side and on the device side to connect the two together. This gives the cloud user access to all of their resources securely from anywhere in the world. You can even use a VPN connection to create a hybrid cloud environment, where some of your resources are at a physical premesis, and some of your resources are based in the cloud provider's environment, but all the resources see each other on the same network.
 
-This article talks about the protocols used for VPNs and the types of VPNs: https://www.geeksforgeeks.org/types-of-virtual-private-network-vpn-and-its-protocols/. You'll use different types of protocols to create VPNs depending on the information you need to store, your security risk level, and any laws, rules, regulations, or contracts you need to adhere to.
+This article talks about the protocols used for VPNs and the types of VPNs: [https://www.geeksforgeeks.org/types-of-virtual-private-network-vpn-and-its-protocols/](https://www.geeksforgeeks.org/types-of-virtual-private-network-vpn-and-its-protocols/). You'll use different types of protocols to create VPNs depending on the information you need to store, your security risk level, and any laws, rules, regulations, or contracts you need to adhere to.
 
 Protocols: 
 
